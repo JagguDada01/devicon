@@ -2790,6 +2790,35 @@
         ]
     },
     {
+        "name": "cohere",
+        "altnames": [
+            "cohereai"
+        ],
+        "tags": [
+            "ai",
+            "llm",
+            "nlp"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark",
+                "line",
+                "line-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark",
+                "line",
+                "line-wordmark"
+            ]
+        },
+        "color": "#355146",
+        "aliases": []
+    },
+    {
         "name": "composer",
         "altnames": [],
         "tags": [
